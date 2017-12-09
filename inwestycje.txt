@@ -1,0 +1,70 @@
+do sprzedania:  
+UWAGA!!!
+1. muszê byæ zalogowany jako: j4sysiak
+2. sprawdzamy w tygodniowym, czy jest > 0(%)  ale nie usuwamy je¿eli ponad EMA6  oraz ponad jakimiœ liniami trêdu
+3. sprawdzamy, czy któryœ z usuwanych jest w BRIndicator na zielono - je¿eli tak to nie usuwamy
+
+
+obserwacje real:
+--------------------------------
+do sprzedania:
+ 
+
+
+obserwacje real:
+--------------------------------
+do kupienia: 
+
+
+
+
+----------------- jak sprawdzam radary (dzienny)
+obserwujemy dzienny MACDD
+1. je¿eli zielony - nic nie rób
+2. je¿eli czerony - patrz poni¿ej na tygodniówkê:
+
+
+---------------------------------
+ 
+I SPOSÓB: Pozostaje (nie sprzedajemy) lub kupowaæ
+obserwujemt wskaŸniki tygodniowe:
+1. pojawia siê maxymalna ró¿nica pomiêdzy SMA (czerwone - jest na dole) i EMA (czarne jest na górze)
+   pojawia siê sygna³ zielony MACDD
+   CCI - roœnie
+lub
+2. MACDO - na sygnale czerwonym i maxymalnie siê wybrzusza od do³u + zaczyna ciê unosiæ
+   CCI - d¹¿y (od do³u (roœnie) do 0)  (lub pojawi siê sygna³ zielony)
+      nie patrzymy na czerwone sygna³y CCI
+
+I SPOSÓB:
+do sprzeda¿y - (obserwujemy tygodniowy MACD)
+MACDO - na sygnale zielonym
+1. kiedy MACD siê maxymalnie wybrzusza od góry 
+2. pojawia siê max ró¿nyca pomiêdzy SMA (czerwone - jest na górze) i EMA (czarne - jest na dole)
+3. CCI opada (d¹¿y od góry (opada) do 0)
+
+II SPOSÓB:
+potrzymy na wskaŸniki (Analiza tech. tygodniowe):
+ -> pozostaje je¿eli jest kupuj, mocne kupuj
+ -> sprzedajemy dla obu neutralnych lub ni¿ej
+ -> dla jakiegokolwiek sprzedaj  sprawdŸ --> I SPOSÓB: Pozostaje (nie sprzedajemy) lub kupowaæ
+
+
+
+----------------- jak sprawdzam skanery (tygodniówki)
+
+
+skaner_trendy_mocne_1W 
+zak³adka: analiza techniczna/trendy (tygodniow) - musi byæ mocny trêd 3 miesiêczny
+
+skaner_PiotrowskiScore_BrIndicator_1W
+zak³adka: analiza techniczna/mówi¹ wskaŸniki  (tygodniowe)
+
+skaner_CCI_bliskie_0__1W
+zak³adka: tendencje CCC (tygodniowe) musz¹ byæ pozytywne (rosn¹ce)
+ 
+
+
+
+
+
